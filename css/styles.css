@@ -1,4 +1,8 @@
-h1.flashy {
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.flashy {
   color: red;
   font-style: italic;
 }
@@ -7,4 +11,12 @@ h1.flashy {
   font-weight: bold;
   color: hotpink;
   font-size: 20px;
+}
+
+.plate {
+  width: 200px;
+}
+
+.small {
+  width:200px;
 }
